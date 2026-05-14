@@ -20,25 +20,25 @@
 ### Volume Trend
 
 
-Driver | Jan | Feb | Mar | Apr | Q1 Avg | MoM Direction
----|---|---|---|---|---|---
-Trading - Execution (time/price) | 10 | 12 | 17 | 26 | 13.0 | Accelerating (+53%, 4th consecutive month)
-Trading - Cancel | 2 | 2 | 5 | 17 | 3.0 | NEW SPIKE (+240%)
-Trading - Roundup | 11 | 14 | 11 | 10 | 12.0 | Stable
-Trading - After Hours | 7 | 4 | 6 | 10 | 5.7 | Increasing
-Online - Trading | 5 | 12 | 3 | 7 | 6.7 | Rebounding
-Trading - Issue w/o Execution | 6 | 4 | 3 | 7 | 4.3 | Increasing
-Trading - Custom Order | 0 | 1 | 1 | 7 | 0.7 | NEW SPIKE
-Online - Quotes | 12 | 1 | 0 | 5 | 4.3 | Returned
-Trading - Auto Invest | 3 | 1 | 9 | 5 | 4.3 | Declining from Mar spike
-Trading (general) | 13 | 5 | 5 | 5 | 7.7 | Stable
-Policy - PDT Unable to Sell | 6 | 8 | 4 | 3 | 6.0 | Declining
-Policy - PDT | 3 | 7 | 8 | 2 | 6.0 | Declining
-Trading - Halt | 0 | 0 | 0 | 2 | 0.0 | New
-Trading - Duplicate Order | 0 | 0 | 0 | 3 | 0.0 | New
-Trading - Dividend Cancel | 0 | 0 | 0 | 2 | 0.0 | New
-Other (Accidental, Rounding, ADR Terminated) | 2 | 4 | 4 | 3 | 3.3 | Stable
-TOTAL PRICING AND EXECUTION | 93 | 80 | 78 | 114 | 83.7 | SURGING (+46%)
+| Driver | Jan | Feb | Mar | Apr | Q1 Avg | MoM Direction |
+| --- | --- | --- | --- | --- | --- | --- |
+| Trading - Execution (time/price) | 10 | 12 | 17 | 26 | 13.0 | Accelerating (+53%, 4th consecutive month) |
+| Trading - Cancel | 2 | 2 | 5 | 17 | 3.0 | NEW SPIKE (+240%) |
+| Trading - Roundup | 11 | 14 | 11 | 10 | 12.0 | Stable |
+| Trading - After Hours | 7 | 4 | 6 | 10 | 5.7 | Increasing |
+| Online - Trading | 5 | 12 | 3 | 7 | 6.7 | Rebounding |
+| Trading - Issue w/o Execution | 6 | 4 | 3 | 7 | 4.3 | Increasing |
+| Trading - Custom Order | 0 | 1 | 1 | 7 | 0.7 | NEW SPIKE |
+| Online - Quotes | 12 | 1 | 0 | 5 | 4.3 | Returned |
+| Trading - Auto Invest | 3 | 1 | 9 | 5 | 4.3 | Declining from Mar spike |
+| Trading (general) | 13 | 5 | 5 | 5 | 7.7 | Stable |
+| Policy - PDT Unable to Sell | 6 | 8 | 4 | 3 | 6.0 | Declining |
+| Policy - PDT | 3 | 7 | 8 | 2 | 6.0 | Declining |
+| Trading - Halt | 0 | 0 | 0 | 2 | 0.0 | New |
+| Trading - Duplicate Order | 0 | 0 | 0 | 3 | 0.0 | New |
+| Trading - Dividend Cancel | 0 | 0 | 0 | 2 | 0.0 | New |
+| Other (Accidental, Rounding, ADR Terminated) | 2 | 4 | 4 | 3 | 3.3 | Stable |
+| TOTAL PRICING AND EXECUTION | 93 | 80 | 78 | 114 | 83.7 | SURGING (+46%) |
 
 ### Performance Summary
 
@@ -62,14 +62,14 @@ TOTAL PRICING AND EXECUTION | 93 | 80 | 78 | 114 | 83.7 | SURGING (+46%)
 ### Volume Trend
 
 
-Driver | Jan | Feb | Mar | Apr | Q1 Avg | MoM Direction
----|---|---|---|---|---|---
-Activity - Multiple Accounts | 135 | 73 | 83 | 108 | 97.0 | Rebounding (+30%)
-Policy - Account Lock | 25 | 27 | 30 | 35 | 27.3 | Increasing (5th consecutive month)
-Policy - Denylist | 22 | 34 | 24 | 26 | 26.7 | Stable
-Maintenance - Closing | 10 | 8 | 8 | 9 | 8.7 | Stable
-Policy - Sponsorship Termination | 2 | 2 | 1 | 1 | 1.7 | Low volume
-TOTAL CLOSURE AND LIQUIDATION | 194 | 144 | 146 | 179 | 161.3 | Increasing (+23%)
+| Driver | Jan | Feb | Mar | Apr | Q1 Avg | MoM Direction |
+| --- | --- | --- | --- | --- | --- | --- |
+| Activity - Multiple Accounts | 135 | 73 | 83 | 108 | 97.0 | Rebounding (+30%) |
+| Policy - Account Lock | 25 | 27 | 30 | 35 | 27.3 | Increasing (5th consecutive month) |
+| Policy - Denylist | 22 | 34 | 24 | 26 | 26.7 | Stable |
+| Maintenance - Closing | 10 | 8 | 8 | 9 | 8.7 | Stable |
+| Policy - Sponsorship Termination | 2 | 2 | 1 | 1 | 1.7 | Low volume |
+| TOTAL CLOSURE AND LIQUIDATION | 194 | 144 | 146 | 179 | 161.3 | Increasing (+23%) |
 
 ### Performance Summary
 
@@ -102,13 +102,13 @@ Status: No signal. Monitoring continues.
 Complaints Requiring Response (April 2026)
 
 
-Source | April | Q1 Total (comparison)
----|---|---
-SEC | 4 | 4
-FINRA | 1 | 12
-State Regulators | 1 | 1
-CFPB | 0 | 3
-Total | 6 | 20
+| Source | April | Q1 Total (comparison) |
+| --- | --- | --- |
+| SEC | 4 | 4 |
+| FINRA | 1 | 12 |
+| State Regulators | 1 | 1 |
+| CFPB | 0 | 3 |
+| Total | 6 | 20 |
 
 All 6 April regulatory complaints were responded to within their due dates. On-time response rate: 100%.
 
@@ -116,13 +116,13 @@ All 6 April regulatory complaints were responded to within their due dates. On-t
 ## 5. Compliance Emerging Themes
 
 
-Theme | Q1 Volume | April | Trend | Risk Level
----|---|---|---|---
-Trading Execution acceleration | 10 to 12 to 17 | 26 | Accelerating (4th month) | High — sustained, doubling
-Trading Cancel surge | 2 to 2 to 5 | 17 | NEW SPIKE | High — new signal, +467%
-Trading Custom Order | 0 to 1 to 1 | 7 | Emerging | Medium — limit order failures
-Account Lock (unbroken increase) | 25 to 27 to 30 | 35 | 5th consecutive month | Medium — sustained trend
-Migration Opt-Out Liquidation | 3 (Q1 reg) | 0 | Monitoring | Medium — no new filings
+| Theme | Q1 Volume | April | Trend | Risk Level |
+| --- | --- | --- | --- | --- |
+| Trading Execution acceleration | 10 to 12 to 17 | 26 | Accelerating (4th month) | High — sustained, doubling |
+| Trading Cancel surge | 2 to 2 to 5 | 17 | NEW SPIKE | High — new signal, +467% |
+| Trading Custom Order | 0 to 1 to 1 | 7 | Emerging | Medium — limit order failures |
+| Account Lock (unbroken increase) | 25 to 27 to 30 | 35 | 5th consecutive month | Medium — sustained trend |
+| Migration Opt-Out Liquidation | 3 (Q1 reg) | 0 | Monitoring | Medium — no new filings |
 
 
 ---
@@ -134,24 +134,24 @@ Migration Opt-Out Liquidation | 3 (Q1 reg) | 0 | Monitoring | Medium — no new 
 ## 6. Overall Complaint Volume (April 2026)
 
 
-Metric | Jan | Feb | Mar | Apr | MoM
----|---|---|---|---|---
-Valid, Closed Complaints | 560 | 423 | 383 | 494 | +29%
+| Metric | Jan | Feb | Mar | Apr | MoM |
+| --- | --- | --- | --- | --- | --- |
+| Valid, Closed Complaints | 560 | 423 | 383 | 494 | +29% |
 
 Trend: After declining -31.6% through Q1, April volume rebounded +29% from March. This brings April above the Q1 average (455/month) but below the January peak (560).
 
 ### Category Trend Summary
 
 
-Category | Jan | Feb | Mar | Apr | % of All | Direction
----|---|---|---|---|---|---
-Closure and Liquidation | 194 | 144 | 146 | 179 | 36.2% | Rebounding
-Pricing and Execution | 93 | 80 | 78 | 114 | 23.1% | SURGING
-Account Access and Maintenance | 143 | 88 | 55 | 100 | 20.2% | Rebounding
-Service and Other | 82 | 59 | 79 | 72 | 14.6% | Stable
-Corporate Actions and Transfers | 27 | 22 | 13 | 18 | 3.6% | Slight increase
-Tax and Reporting | 11 | 23 | 15 | 11 | 2.2% | Post-season decline
-TOTAL | 560 | 423 | 383 | 494 | 100% | +29%
+| Category | Jan | Feb | Mar | Apr | % of All | Direction |
+| --- | --- | --- | --- | --- | --- | --- |
+| Closure and Liquidation | 194 | 144 | 146 | 179 | 36.2% | Rebounding |
+| Pricing and Execution | 93 | 80 | 78 | 114 | 23.1% | SURGING |
+| Account Access and Maintenance | 143 | 88 | 55 | 100 | 20.2% | Rebounding |
+| Service and Other | 82 | 59 | 79 | 72 | 14.6% | Stable |
+| Corporate Actions and Transfers | 27 | 22 | 13 | 18 | 3.6% | Slight increase |
+| Tax and Reporting | 11 | 23 | 15 | 11 | 2.2% | Post-season decline |
+| TOTAL | 560 | 423 | 383 | 494 | 100% | +29% |
 
 Key shift: Pricing and Execution moved from 18.4% (Q1) to 23.1% of all complaints — now the second-largest category, overtaking Account Access.
 
@@ -161,16 +161,16 @@ Key shift: Pricing and Execution moved from 18.4% (Q1) to 23.1% of all complaint
 ### A. Account Access and Maintenance (Rebounding)
 
 
-Driver | Jan | Feb | Mar | Apr | Trend
----|---|---|---|---|---
-Activity - Balance Confusion | 37 | 25 | 23 | 33 | Rebounding
-Online - Navigation | 9 | 4 | 13 | 22 | SURGING
-Maintenance - Account | 72 | 40 | 11 | 13 | Stabilized (post-decline)
-Activity - Positions | 5 | 9 | 1 | 9 | Rebounding
-Online - Access | 17 | 5 | 5 | 9 | Rebounding
-Online - Sponsored Account | 3 | 5 | 2 | 6 | Increasing
-Online - Positions | 5 | 9 | 1 | 3 | Variable
-SUBTOTAL | 143 | 88 | 55 | 100 | Rebounding
+| Driver | Jan | Feb | Mar | Apr | Trend |
+| --- | --- | --- | --- | --- | --- |
+| Activity - Balance Confusion | 37 | 25 | 23 | 33 | Rebounding |
+| Online - Navigation | 9 | 4 | 13 | 22 | SURGING |
+| Maintenance - Account | 72 | 40 | 11 | 13 | Stabilized (post-decline) |
+| Activity - Positions | 5 | 9 | 1 | 9 | Rebounding |
+| Online - Access | 17 | 5 | 5 | 9 | Rebounding |
+| Online - Sponsored Account | 3 | 5 | 2 | 6 | Increasing |
+| Online - Positions | 5 | 9 | 1 | 3 | Variable |
+| SUBTOTAL | 143 | 88 | 55 | 100 | Rebounding |
 
 ### Verbatims
 
@@ -184,14 +184,14 @@ SUBTOTAL | 143 | 88 | 55 | 100 | Rebounding
 ### B. Tax and Reporting (Post-Season Decline)
 
 
-Driver | Jan | Feb | Mar | Apr | Trend
----|---|---|---|---|---
-Tax - Backup WH | 3 | 6 | 2 | 3 | Stable
-Tax - 1099 Delivery | 2 | 14 | 8 | 2 | Season ended
-Tax - TIN Mismatch | 6 | 2 | 2 | 1 | Declining
-Tax - 1099 Data | 0 | 0 | 2 | 1 | Low volume
-Reporting - Statements | 0 | 0 | 0 | 3 | New
-SUBTOTAL | 11 | 23 | 15 | 11 | Post-season
+| Driver | Jan | Feb | Mar | Apr | Trend |
+| --- | --- | --- | --- | --- | --- |
+| Tax - Backup WH | 3 | 6 | 2 | 3 | Stable |
+| Tax - 1099 Delivery | 2 | 14 | 8 | 2 | Season ended |
+| Tax - TIN Mismatch | 6 | 2 | 2 | 1 | Declining |
+| Tax - 1099 Data | 0 | 0 | 2 | 1 | Low volume |
+| Reporting - Statements | 0 | 0 | 0 | 3 | New |
+| SUBTOTAL | 11 | 23 | 15 | 11 | Post-season |
 
 ### Verbatims
 
@@ -205,16 +205,16 @@ SUBTOTAL | 11 | 23 | 15 | 11 | Post-season
 ### C. Corporate Actions and Transfers (Slight Increase)
 
 
-Driver | Jan | Feb | Mar | Apr | Trend
----|---|---|---|---|---
-Reorg - Reverse Split | 4 | 1 | 2 | 4 | Stable
-ACAT | 2 | 4 | 6 | 3 | Declining
-Reorg - Bankruptcy | 7 | 4 | 1 | 3 | Stable
-Dividends | 0 | 0 | 0 | 2 | New
-ACAT - Fee | 4 | 0 | 2 | 2 | Stable
-ACAT - Processing Time | 4 | 3 | 1 | 2 | Stable
-Reorg | 3 | 3 | 0 | 2 | Stable
-SUBTOTAL | 27 | 22 | 13 | 18 | Slight increase
+| Driver | Jan | Feb | Mar | Apr | Trend |
+| --- | --- | --- | --- | --- | --- |
+| Reorg - Reverse Split | 4 | 1 | 2 | 4 | Stable |
+| ACAT | 2 | 4 | 6 | 3 | Declining |
+| Reorg - Bankruptcy | 7 | 4 | 1 | 3 | Stable |
+| Dividends | 0 | 0 | 0 | 2 | New |
+| ACAT - Fee | 4 | 0 | 2 | 2 | Stable |
+| ACAT - Processing Time | 4 | 3 | 1 | 2 | Stable |
+| Reorg | 3 | 3 | 0 | 2 | Stable |
+| SUBTOTAL | 27 | 22 | 13 | 18 | Slight increase |
 
 ### Verbatims
 
@@ -228,15 +228,15 @@ SUBTOTAL | 27 | 22 | 13 | 18 | Slight increase
 ### D. Service and Other (Stable)
 
 
-Driver | Jan | Feb | Mar | Apr | Trend
----|---|---|---|---|---
-Service - Customer | 21 | 18 | 26 | 23 | Stable
-NSP - Issue Unclear | 21 | 11 | 15 | 11 | Stable (declining)
-Activity - Sales Proceeds | 3 | 5 | 8 | 11 | ACCELERATING
-Non Firm - ATO | 2 | 0 | 5 | 4 | Elevated
-Activity - Market Fluctuations | 2 | 2 | 1 | 4 | Increasing
-Activity - Orders | 0 | 0 | 0 | 4 | New
-SUBTOTAL | 82 | 59 | 79 | 72 | Stable
+| Driver | Jan | Feb | Mar | Apr | Trend |
+| --- | --- | --- | --- | --- | --- |
+| Service - Customer | 21 | 18 | 26 | 23 | Stable |
+| NSP - Issue Unclear | 21 | 11 | 15 | 11 | Stable (declining) |
+| Activity - Sales Proceeds | 3 | 5 | 8 | 11 | ACCELERATING |
+| Non Firm - ATO | 2 | 0 | 5 | 4 | Elevated |
+| Activity - Market Fluctuations | 2 | 2 | 1 | 4 | Increasing |
+| Activity - Orders | 0 | 0 | 0 | 4 | New |
+| SUBTOTAL | 82 | 59 | 79 | 72 | Stable |
 
 ### Verbatims
 
@@ -250,30 +250,30 @@ SUBTOTAL | 82 | 59 | 79 | 72 | Stable
 ## 8. Emerging Themes (Business Impact)
 
 
-Theme | Jan | Feb | Mar | Apr | Direction | What Customers Are Saying
----|---|---|---|---|---|---
-Activity - Sales Proceeds | 3 | 5 | 8 | 11 | Accelerating | Sold stocks but funds not appearing — 2-3+ day delays, some report funds never arriving
-Online - Navigation | 9 | 4 | 13 | 22 | SURGING | Cannot find features, app layout confusion, inability to locate portfolio or buy/sell buttons
-Trading - Custom Order | 0 | 1 | 1 | 7 | New spike | Limit/stop orders not executing at specified price — orders triggering at wrong levels
-Trading - Duplicate Order | 0 | 0 | 0 | 3 | New | Orders executing twice, customers charged double
-Activity - Orders | 0 | 0 | 0 | 4 | New | Orders stuck in pending state, neither executing nor cancelling
+| Theme | Jan | Feb | Mar | Apr | Direction | What Customers Are Saying |
+| --- | --- | --- | --- | --- | --- | --- |
+| Activity - Sales Proceeds | 3 | 5 | 8 | 11 | Accelerating | Sold stocks but funds not appearing — 2-3+ day delays, some report funds never arriving |
+| Online - Navigation | 9 | 4 | 13 | 22 | SURGING | Cannot find features, app layout confusion, inability to locate portfolio or buy/sell buttons |
+| Trading - Custom Order | 0 | 1 | 1 | 7 | New spike | Limit/stop orders not executing at specified price — orders triggering at wrong levels |
+| Trading - Duplicate Order | 0 | 0 | 0 | 3 | New | Orders executing twice, customers charged double |
+| Activity - Orders | 0 | 0 | 0 | 4 | New | Orders stuck in pending state, neither executing nor cancelling |
 
 
 ## 9. Top 10 Complaint Drivers (April 2026)
 
 
-Rank | Driver | Apr | Q1 Avg | vs Q1 Avg | Trend
----|---|---|---|---|---
-1 | Activity - Multiple Accounts | 108 | 97.0 | +11% | Stable
-2 | Policy - Account Lock | 35 | 27.3 | +28% | 5th consecutive increase
-3 | Activity - Balance Confusion | 33 | 28.3 | +17% | Rebounding
-4 | Trading - Execution (time/price) | 26 | 13.0 | +100% | ACCELERATING
-5 | Policy - Denylist | 26 | 26.7 | -3% | Stable
-6 | Service - Customer | 23 | 21.7 | +6% | Stable
-7 | Online - Navigation | 22 | 8.7 | +153% | SURGING
-8 | Trading - Cancel | 17 | 3.0 | +467% | NEW SPIKE
-9 | Maintenance - Account | 13 | 41.0 | -68% | Continued decline
-10 | Activity - Sales Proceeds | 11 | 5.3 | +107% | Accelerating
+| Rank | Driver | Apr | Q1 Avg | vs Q1 Avg | Trend |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Activity - Multiple Accounts | 108 | 97.0 | +11% | Stable |
+| 2 | Policy - Account Lock | 35 | 27.3 | +28% | 5th consecutive increase |
+| 3 | Activity - Balance Confusion | 33 | 28.3 | +17% | Rebounding |
+| 4 | Trading - Execution (time/price) | 26 | 13.0 | +100% | ACCELERATING |
+| 5 | Policy - Denylist | 26 | 26.7 | -3% | Stable |
+| 6 | Service - Customer | 23 | 21.7 | +6% | Stable |
+| 7 | Online - Navigation | 22 | 8.7 | +153% | SURGING |
+| 8 | Trading - Cancel | 17 | 3.0 | +467% | NEW SPIKE |
+| 9 | Maintenance - Account | 13 | 41.0 | -68% | Continued decline |
+| 10 | Activity - Sales Proceeds | 11 | 5.3 | +107% | Accelerating |
 
 ### Key Changes from Q1
 - Trading - Execution moved from #8 to #4 — doubled its Q1 average
@@ -288,13 +288,13 @@ Rank | Driver | Apr | Q1 Avg | vs Q1 Avg | Trend
 Service - Customer: 23 complaints. Sub-theme distribution consistent with Q1 patterns:
 
 
-Sub-Theme | Est. % | Apr Count | Trend vs Q1
----|---|---|---
-Unresponsive / Ignored | ~40% | ~9 | Consistent
-Canned / Repetitive Responses | ~25% | ~6 | Consistent
-Transferred / Starting Over | ~20% | ~5 | Consistent
-Won't Explain Decisions | ~10% | ~2 | Consistent
-Miscategorized | ~5% | ~1 | Consistent
+| Sub-Theme | Est. % | Apr Count | Trend vs Q1 |
+| --- | --- | --- | --- |
+| Unresponsive / Ignored | ~40% | ~9 | Consistent |
+| Canned / Repetitive Responses | ~25% | ~6 | Consistent |
+| Transferred / Starting Over | ~20% | ~5 | Consistent |
+| Won't Explain Decisions | ~10% | ~2 | Consistent |
+| Miscategorized | ~5% | ~1 | Consistent |
 
 No structural change in service complaint composition. The dominant signal remains unresponsiveness.
 
@@ -306,12 +306,12 @@ No structural change in service complaint composition. The dominant signal remai
 A. Training Errors — Existing Taxonomy Not Used (~7 complaints)
 
 
-Should Be | CCN | What Customer Said
----|---|---
-Policy - Account Lock | CCN-9318511 | "My account was locked, preventing access to my investing funds totaling approximately $343"
-Trading - Execution | CCN-9383486 | "My stocks is not letting me buy or sell. It's making me lose money. I need it fixed immediately."
-Maintenance - Closing | CCN-9445024 | "Give me my money back and close my account. You didn't need all that time when you was collecting my money"
-Activity - Balance Confusion | CCN-9257752 | "It's been 30 days... I need my money. I have not received ANY of my Roll Over for stocks I'm owed for 8 months"
+| Should Be | CCN | What Customer Said |
+| --- | --- | --- |
+| Policy - Account Lock | CCN-9318511 | "My account was locked, preventing access to my investing funds totaling approximately $343" |
+| Trading - Execution | CCN-9383486 | "My stocks is not letting me buy or sell. It's making me lose money. I need it fixed immediately." |
+| Maintenance - Closing | CCN-9445024 | "Give me my money back and close my account. You didn't need all that time when you was collecting my money" |
+| Activity - Balance Confusion | CCN-9257752 | "It's been 30 days... I need my money. I have not received ANY of my Roll Over for stocks I'm owed for 8 months" |
 
 B. Genuinely Unclear (~4 complaints)
 
