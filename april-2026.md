@@ -1,21 +1,27 @@
-Cash App Investing (CAI) — Complaint Trends + FINRA Metrics
+# Cash App Investing (CAI) — Complaint Trends + FINRA Metrics
 
-April 2026
-Analysis Date: May 5, 2026
+## April 2026
+**Analysis Date:** May 5, 2026
 
-Compliance DRIs: aadkins@cashappinvest.com, shlebain@cashappinvest.com
-Additional Stakeholders: bpeterkin@cashappinvest.com
-CAI Business DRIs: tesmon@squareup.com, kseefeldt@squareup.com
+**Compliance DRIs:** aadkins@cashappinvest.com, shlebain@cashappinvest.com  
+**Additional Stakeholders:** bpeterkin@cashappinvest.com  
+**CAI Business DRIs:** tesmon@squareup.com, kseefeldt@squareup.com
 
-Population: Valid, Closed Complaints Only (STATUS_OF_COMPLAINT = 'Closed' AND VALID_INVALID_COMPLAINT = 'Valid'). Cases still within resolution window are included for trend analysis — complaint reason and narrative are populated at intake regardless of closure status. Closure metrics are noted as incomplete where applicable.
+**Population:** Valid, Closed Complaints Only (STATUS_OF_COMPLAINT = 'Closed' AND VALID_INVALID_COMPLAINT = 'Valid'). Cases still within resolution window are included for trend analysis — complaint reason and narrative are populated at intake regardless of closure status. Closure metrics are noted as incomplete where applicable.
 
-PART I: COMPLIANCE LENS
+---
 
-1. Pricing and Execution Complaints
+---
 
-Volume Trend
+# PART I: COMPLIANCE LENS
+
+## 1. Pricing and Execution Complaints
+
+### Volume Trend
+
 
 Driver | Jan | Feb | Mar | Apr | Q1 Avg | MoM Direction
+---|---|---|---|---|---|---
 Trading - Execution (time/price) | 10 | 12 | 17 | 26 | 13.0 | Accelerating (+53%, 4th consecutive month)
 Trading - Cancel | 2 | 2 | 5 | 17 | 3.0 | NEW SPIKE (+240%)
 Trading - Roundup | 11 | 14 | 11 | 10 | 12.0 | Stable
@@ -34,7 +40,7 @@ Trading - Dividend Cancel | 0 | 0 | 0 | 2 | 0.0 | New
 Other (Accidental, Rounding, ADR Terminated) | 2 | 4 | 4 | 3 | 3.3 | Stable
 TOTAL PRICING AND EXECUTION | 93 | 80 | 78 | 114 | 83.7 | SURGING (+46%)
 
-Performance Summary
+### Performance Summary
 
 - Trading - Execution (time/price) is now in its 4th consecutive month of acceleration: 10 to 12 to 17 to 26. It has doubled its Q1 average and shows no sign of plateauing.
 - Trading - Cancel surged from a Q1 average of 3/month to 17 in April (+467%). Customers are alleging they cannot cancel orders or that cancellations fail silently.
@@ -42,7 +48,7 @@ Performance Summary
 - Total Pricing and Execution category increased 46% from March, breaking the stable trend observed in Q1. This category now represents 23.1% of all complaints (up from 18.4% in Q1).
 - PDT-related complaints declined (5 combined, down from 16 in Q1 average) — possible seasonal or policy change effect.
 
-Verbatims — What Customers Are Alleging
+### Verbatims — What Customers Are Alleging
 
 "This morning I had set to sell TEM at the price $46.55, but why it has been sold at $44.43, so I was unhappy about this." — CCN-9305033, April 2, 2026
 
@@ -51,11 +57,13 @@ Verbatims — What Customers Are Alleging
 "Hecla Mining, scheduled at $17.93 per share was purchased at $18.89 leading to loss. Pan American Silver scheduled at $49.87 per share was purchased at $52.69 leading to loss. Gold Fields Limited scheduled at $40.66 per share was purchased at $43.30 leading to loss." — CCN-9373082, April 11, 2026
 
 
-2. Account Closure and Liquidation Complaints
+## 2. Account Closure and Liquidation Complaints
 
-Volume Trend
+### Volume Trend
+
 
 Driver | Jan | Feb | Mar | Apr | Q1 Avg | MoM Direction
+---|---|---|---|---|---|---
 Activity - Multiple Accounts | 135 | 73 | 83 | 108 | 97.0 | Rebounding (+30%)
 Policy - Account Lock | 25 | 27 | 30 | 35 | 27.3 | Increasing (5th consecutive month)
 Policy - Denylist | 22 | 34 | 24 | 26 | 26.7 | Stable
@@ -63,13 +71,13 @@ Maintenance - Closing | 10 | 8 | 8 | 9 | 8.7 | Stable
 Policy - Sponsorship Termination | 2 | 2 | 1 | 1 | 1.7 | Low volume
 TOTAL CLOSURE AND LIQUIDATION | 194 | 144 | 146 | 179 | 161.3 | Increasing (+23%)
 
-Performance Summary
+### Performance Summary
 
 - Account Lock continues its unbroken upward trend: 25 to 27 to 30 to 35. Now 5 consecutive months of increase with no sign of plateau.
 - Multiple Accounts rebounded from the Feb/Mar dip back toward January levels (108 vs 135 Jan peak).
 - Total category increased 23% MoM, reversing the Q1 decline.
 
-Verbatims — What Customers Are Alleging
+### Verbatims — What Customers Are Alleging
 
 "Why can't I open a brokerage account? I have tried several times with no success. Getting annoyed with the cash app stocks. Please fix it to where I can buy stocks." — CCN-9258132, April 1, 2026
 
@@ -78,7 +86,7 @@ Verbatims — What Customers Are Alleging
 "I can still not purchase any stocks and I've sent in all info I was asked. I even received a letter saying to scan a QR code that I took pics of and submitted like I was asked. I have yet to gain access to my funds. This has went on for over a year and a half." — CCN-9335055, April 5, 2026
 
 
-3. Accessibility Barriers
+## 3. Accessibility Barriers
 
 April 2026 Finding
 
@@ -89,11 +97,13 @@ No complaints in April 2026 met the strict accessibility barrier criteria.
 Status: No signal. Monitoring continues.
 
 
-4. Regulatory Complaint Performance
+## 4. Regulatory Complaint Performance
 
 Complaints Requiring Response (April 2026)
 
+
 Source | April | Q1 Total (comparison)
+---|---|---
 SEC | 4 | 4
 FINRA | 1 | 12
 State Regulators | 1 | 1
@@ -103,9 +113,11 @@ Total | 6 | 20
 All 6 April regulatory complaints were responded to within their due dates. On-time response rate: 100%.
 
 
-5. Compliance Emerging Themes
+## 5. Compliance Emerging Themes
+
 
 Theme | Q1 Volume | April | Trend | Risk Level
+---|---|---|---|---
 Trading Execution acceleration | 10 to 12 to 17 | 26 | Accelerating (4th month) | High — sustained, doubling
 Trading Cancel surge | 2 to 2 to 5 | 17 | NEW SPIKE | High — new signal, +467%
 Trading Custom Order | 0 to 1 to 1 | 7 | Emerging | Medium — limit order failures
@@ -113,18 +125,26 @@ Account Lock (unbroken increase) | 25 to 27 to 30 | 35 | 5th consecutive month |
 Migration Opt-Out Liquidation | 3 (Q1 reg) | 0 | Monitoring | Medium — no new filings
 
 
-PART II: BUSINESS LENS
+---
 
-6. Overall Complaint Volume (April 2026)
+---
+
+# PART II: BUSINESS LENS
+
+## 6. Overall Complaint Volume (April 2026)
+
 
 Metric | Jan | Feb | Mar | Apr | MoM
+---|---|---|---|---|---
 Valid, Closed Complaints | 560 | 423 | 383 | 494 | +29%
 
 Trend: After declining -31.6% through Q1, April volume rebounded +29% from March. This brings April above the Q1 average (455/month) but below the January peak (560).
 
-Category Trend Summary
+### Category Trend Summary
+
 
 Category | Jan | Feb | Mar | Apr | % of All | Direction
+---|---|---|---|---|---|---
 Closure and Liquidation | 194 | 144 | 146 | 179 | 36.2% | Rebounding
 Pricing and Execution | 93 | 80 | 78 | 114 | 23.1% | SURGING
 Account Access and Maintenance | 143 | 88 | 55 | 100 | 20.2% | Rebounding
@@ -136,11 +156,13 @@ TOTAL | 560 | 423 | 383 | 494 | 100% | +29%
 Key shift: Pricing and Execution moved from 18.4% (Q1) to 23.1% of all complaints — now the second-largest category, overtaking Account Access.
 
 
-7. Complaint Trends by Category (Business View)
+## 7. Complaint Trends by Category (Business View)
 
-A. Account Access and Maintenance (Rebounding)
+### A. Account Access and Maintenance (Rebounding)
+
 
 Driver | Jan | Feb | Mar | Apr | Trend
+---|---|---|---|---|---
 Activity - Balance Confusion | 37 | 25 | 23 | 33 | Rebounding
 Online - Navigation | 9 | 4 | 13 | 22 | SURGING
 Maintenance - Account | 72 | 40 | 11 | 13 | Stabilized (post-decline)
@@ -150,7 +172,7 @@ Online - Sponsored Account | 3 | 5 | 2 | 6 | Increasing
 Online - Positions | 5 | 9 | 1 | 3 | Variable
 SUBTOTAL | 143 | 88 | 55 | 100 | Rebounding
 
-Verbatims:
+### Verbatims
 
 "The numbers are wrong on what I invested and lost. That changes the percentage of what I get back when they rise. It's on multiple stocks and I'd like this fixed immediately." — CCN-9257299, April 1, 2026
 
@@ -159,9 +181,11 @@ Verbatims:
 "Following up — this issue is actively happening right now and I am not receiving a response. Completed trades are not being reflected in my cash balance. This is the second occurrence tied to case #213106525. Please respond with the status of my funds immediately." — CCN-9400755, April 18, 2026
 
 
-B. Tax and Reporting (Post-Season Decline)
+### B. Tax and Reporting (Post-Season Decline)
+
 
 Driver | Jan | Feb | Mar | Apr | Trend
+---|---|---|---|---|---
 Tax - Backup WH | 3 | 6 | 2 | 3 | Stable
 Tax - 1099 Delivery | 2 | 14 | 8 | 2 | Season ended
 Tax - TIN Mismatch | 6 | 2 | 2 | 1 | Declining
@@ -169,7 +193,7 @@ Tax - 1099 Data | 0 | 0 | 2 | 1 | Low volume
 Reporting - Statements | 0 | 0 | 0 | 3 | New
 SUBTOTAL | 11 | 23 | 15 | 11 | Post-season
 
-Verbatims:
+### Verbatims
 
 "I need my statements for my records. I cannot find where to download them in the app and support hasn't been able to help me locate them." — CCN-9401882, April 18, 2026
 
@@ -178,9 +202,11 @@ Verbatims:
 "I sold stocks last year and my 1099 doesn't match what I actually received. The numbers are wrong." — CCN-9445891, April 23, 2026
 
 
-C. Corporate Actions and Transfers (Slight Increase)
+### C. Corporate Actions and Transfers (Slight Increase)
+
 
 Driver | Jan | Feb | Mar | Apr | Trend
+---|---|---|---|---|---
 Reorg - Reverse Split | 4 | 1 | 2 | 4 | Stable
 ACAT | 2 | 4 | 6 | 3 | Declining
 Reorg - Bankruptcy | 7 | 4 | 1 | 3 | Stable
@@ -190,7 +216,7 @@ ACAT - Processing Time | 4 | 3 | 1 | 2 | Stable
 Reorg | 3 | 3 | 0 | 2 | Stable
 SUBTOTAL | 27 | 22 | 13 | 18 | Slight increase
 
-Verbatims:
+### Verbatims
 
 "My shares disappeared after a reverse split. I had fractional shares and now they're gone completely. No notification, no explanation." — CCN-9378201, April 12, 2026
 
@@ -199,9 +225,11 @@ Verbatims:
 "I was charged a fee for the ACAT transfer that I didn't agree to. Where was this disclosed?" — CCN-9389012, April 14, 2026
 
 
-D. Service and Other (Stable)
+### D. Service and Other (Stable)
+
 
 Driver | Jan | Feb | Mar | Apr | Trend
+---|---|---|---|---|---
 Service - Customer | 21 | 18 | 26 | 23 | Stable
 NSP - Issue Unclear | 21 | 11 | 15 | 11 | Stable (declining)
 Activity - Sales Proceeds | 3 | 5 | 8 | 11 | ACCELERATING
@@ -210,7 +238,7 @@ Activity - Market Fluctuations | 2 | 2 | 1 | 4 | Increasing
 Activity - Orders | 0 | 0 | 0 | 4 | New
 SUBTOTAL | 82 | 59 | 79 | 72 | Stable
 
-Verbatims:
+### Verbatims
 
 "I sold my stock for $30 and only received $15. This has happened almost every time I sell my stocks. Why is Cash App stealing my money and never returning it?" — CCN-9352708, April 8, 2026
 
@@ -219,9 +247,11 @@ Verbatims:
 "Where's my money? You guys told me one day. It's been three days. I need my money to invest, not to hold it." — CCN-9442336, April 23, 2026
 
 
-8. Emerging Themes (Business Impact)
+## 8. Emerging Themes (Business Impact)
+
 
 Theme | Jan | Feb | Mar | Apr | Direction | What Customers Are Saying
+---|---|---|---|---|---|---
 Activity - Sales Proceeds | 3 | 5 | 8 | 11 | Accelerating | Sold stocks but funds not appearing — 2-3+ day delays, some report funds never arriving
 Online - Navigation | 9 | 4 | 13 | 22 | SURGING | Cannot find features, app layout confusion, inability to locate portfolio or buy/sell buttons
 Trading - Custom Order | 0 | 1 | 1 | 7 | New spike | Limit/stop orders not executing at specified price — orders triggering at wrong levels
@@ -229,9 +259,11 @@ Trading - Duplicate Order | 0 | 0 | 0 | 3 | New | Orders executing twice, custom
 Activity - Orders | 0 | 0 | 0 | 4 | New | Orders stuck in pending state, neither executing nor cancelling
 
 
-9. Top 10 Complaint Drivers (April 2026)
+## 9. Top 10 Complaint Drivers (April 2026)
+
 
 Rank | Driver | Apr | Q1 Avg | vs Q1 Avg | Trend
+---|---|---|---|---|---
 1 | Activity - Multiple Accounts | 108 | 97.0 | +11% | Stable
 2 | Policy - Account Lock | 35 | 27.3 | +28% | 5th consecutive increase
 3 | Activity - Balance Confusion | 33 | 28.3 | +17% | Rebounding
@@ -243,7 +275,7 @@ Rank | Driver | Apr | Q1 Avg | vs Q1 Avg | Trend
 9 | Maintenance - Account | 13 | 41.0 | -68% | Continued decline
 10 | Activity - Sales Proceeds | 11 | 5.3 | +107% | Accelerating
 
-Key Changes from Q1:
+### Key Changes from Q1
 - Trading - Execution moved from #8 to #4 — doubled its Q1 average
 - Trading - Cancel entered the Top 10 for the first time (was not ranked in Q1)
 - Online - Navigation entered the Top 10 (was not ranked in Q1)
@@ -251,11 +283,13 @@ Key Changes from Q1:
 - Maintenance - Account dropped from #2 to #9
 
 
-10. Service Quality Deep-Dive (April 2026)
+## 10. Service Quality Deep-Dive (April 2026)
 
 Service - Customer: 23 complaints. Sub-theme distribution consistent with Q1 patterns:
 
+
 Sub-Theme | Est. % | Apr Count | Trend vs Q1
+---|---|---|---
 Unresponsive / Ignored | ~40% | ~9 | Consistent
 Canned / Repetitive Responses | ~25% | ~6 | Consistent
 Transferred / Starting Over | ~20% | ~5 | Consistent
@@ -265,13 +299,15 @@ Miscategorized | ~5% | ~1 | Consistent
 No structural change in service complaint composition. The dominant signal remains unresponsiveness.
 
 
-11. NSP - Issue Unclear: Categorization Gap Analysis (April 2026)
+## 11. NSP - Issue Unclear: Categorization Gap Analysis (April 2026)
 
 11 valid complaints categorized as NSP - Issue Unclear in April (down from Q1 average of 16/month).
 
 A. Training Errors — Existing Taxonomy Not Used (~7 complaints)
 
+
 Should Be | CCN | What Customer Said
+---|---|---
 Policy - Account Lock | CCN-9318511 | "My account was locked, preventing access to my investing funds totaling approximately $343"
 Trading - Execution | CCN-9383486 | "My stocks is not letting me buy or sell. It's making me lose money. I need it fixed immediately."
 Maintenance - Closing | CCN-9445024 | "Give me my money back and close my account. You didn't need all that time when you was collecting my money"
@@ -289,11 +325,11 @@ Examples:
 Impact: NSP volume declined from 16/month (Q1) to 11 in April. Training errors persist but overall categorization accuracy is improving.
 
 
-12. Targeted Themes for Business Engagement
+## 12. Targeted Themes for Business Engagement
 
 Based on April data, the following five themes are prioritized:
 
-Theme 1: Trading Execution (time/price) — 4th Consecutive Month of Acceleration (26 complaints, +100% vs Q1 avg)
+### Theme 1: Trading Execution (time/price) — 4th Consecutive Month of Acceleration (26 complaints, +100% vs Q1 avg)
 
 What Customers Are Telling Us: Customers are alleging that executed prices differ significantly from the price displayed at order submission. The pattern is consistent across multiple customers: they see Price A, submit an order, and receive Price B — often $1-15 different. Multiple customers provide specific dollar amounts and stock names. This is no longer a low-volume signal; it has doubled its Q1 average and shows no sign of plateauing.
 
@@ -307,7 +343,7 @@ Guided Questions:
 - Outcome Measurement: Target reversal to 15/month or below (Q1 average). When should that be observed?
 
 
-Theme 2: Trading Cancel — New Spike (17 complaints, +467% vs Q1 avg)
+### Theme 2: Trading Cancel — New Spike (17 complaints, +467% vs Q1 avg)
 
 What Customers Are Telling Us: Customers are alleging they attempted to cancel orders but the cancellation either did not process, processed too late (order already executed), or the app did not provide a functional cancellation mechanism. Multiple customers describe pressing cancel and nothing happening, or being told the order is "expired" but funds remain locked.
 
@@ -321,7 +357,7 @@ Guided Questions:
 - Outcome Measurement: Target return to 5/month or below. When should that be observed?
 
 
-Theme 3: Account Lock — 5th Consecutive Monthly Increase (35 complaints, 25 to 27 to 30 to 35)
+### Theme 3: Account Lock — 5th Consecutive Monthly Increase (35 complaints, 25 to 27 to 30 to 35)
 
 What Customers Are Telling Us: Customers are alleging their accounts are locked without explanation, preventing access to positions. The unbroken 5-month upward trend suggests a systemic driver rather than one-time events.
 
@@ -335,7 +371,7 @@ Guided Questions:
 - Outcome Measurement: Target reversal of the upward trend (30/month or below). When should that be observed?
 
 
-Theme 4: Activity - Sales Proceeds — 4th Consecutive Month of Acceleration (11 complaints, 3 to 5 to 8 to 11)
+### Theme 4: Activity - Sales Proceeds — 4th Consecutive Month of Acceleration (11 complaints, 3 to 5 to 8 to 11)
 
 What Customers Are Telling Us: Customers are alleging that after selling stocks, the proceeds do not appear in their cash balance for 2-3+ days — or in some cases, not at all. Multiple customers describe selling and then having no money reflected anywhere in the app. Some report being charged fees on sales they haven't received proceeds for.
 
@@ -349,7 +385,7 @@ Guided Questions:
 - Outcome Measurement: Target 5/month or below. When should that be observed?
 
 
-Theme 5: Online - Navigation — Surging (22 complaints, 9 to 4 to 13 to 22)
+### Theme 5: Online - Navigation — Surging (22 complaints, 9 to 4 to 13 to 22)
 
 What Customers Are Telling Us: Customers are alleging they cannot find basic features in the app — portfolio view, buy/sell buttons, cancel functionality, account settings. The April surge (+69% from March) suggests a possible app update or UI change that disrupted familiar navigation patterns.
 
